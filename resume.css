@@ -49,39 +49,3 @@ ul>li {
     margin-bottom: 10px;
     list-style: none;
 }
-
-/* 
-h1,
-h2 {
-    background-color: black;
-    color: white;
-    padding: 6px;
-    display: inline-block;
-    text-transform: uppercase;
-}
-
-hr {
-    border-top: 4px solid black;
-}
-
-ol {
-    text-shadow: -2px black;
-}
-
-ol>li {
-    font-weight: bold;
-    text-transform: uppercase;
-}
-
-ul>li {
-    margin-top: 3px;
-    list-style: disc;
-}
-
-.add-1 {
-    font-style: normal;
-}
-
-p {
-    font-size: 20px;
-} */
